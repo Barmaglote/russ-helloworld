@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "struc01"
+name = "enum02"
 version = "0.1.0"
